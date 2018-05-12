@@ -1,0 +1,36 @@
+_repo: The-Two-Gun-Man_19012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seltzer, Charles Alden
+    birthdate: 1875
+    deathdate: 1942
+    gutenberg_agent_id: '6812'
+    url: http://www.gutenberg.org/2009/agents/6812
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Alden_Seltzer
+description: The Shelf2Life Western Fiction Collection is a fascinating set of pre-1923
+  materials that capture the beauty, mystery and adventure of the old west. From honorable
+  cowboys and spirited pioneer women to questionable sheriffs, notorious gunslingers
+  and unruly outlaws, these classic westerns introduce lively characters who embody
+  the essence of the American frontier. Authentic dialog combined with vivid scenic
+  descriptions help re-create a time and place where chasing cattle rustlers, tracking
+  wild horses and fighting for land were a part of everyday life, highlighting the
+  strength of character necessary to survive. The Shelf2Life Western Fiction Collection
+  allows readers to escape the modern world and be transported into the rough and
+  tumble escapades of the Wild West.
+gutenberg_issued: '2006-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Two-Gun Man
+url: http://www.gutenberg.org/ebooks/19012
